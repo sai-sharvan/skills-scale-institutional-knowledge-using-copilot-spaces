@@ -14,11 +14,22 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM):** coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM):** defines outcomes, prioritizes backlog, and measures success.
+- **Developers:** implement features, collaborate on design and testability.
+- **QA/Testing:** validate quality and acceptance criteria.
+- **Stakeholders:** provide inputs and approvals.
+
+## Extended Roles
+These roles support specific aspects of the project lifecycle and may not be present on all projects:
+- **Scrum Master:** facilitates agile ceremonies, removes blockers, coaches on best practices.
+- **UX Designer:** designs and validates user experiences, ensures usability and consistency.
+- **DevOps Engineer:** manages CI/CD pipelines, automates deployments, maintains infrastructure.
+- **Business Analyst:** analyzes business needs, documents requirements, bridges stakeholder-technical gaps.
+- **Support Lead:** represents customer support, channels feedback, coordinates post-release support.
+- **Security/Compliance Officer:** enforces security policies, audits compliance, manages security risks.
+
+**Reference:** Extended roles defined in response to [sai-sharvan/skills-scale-institutional-knowledge-using-copilot-spaces#4](https://github.com/sai-sharvan/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +55,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use the [RACI Matrix Template](./octoacme-raci-matrix-template.md) to clarify role accountability
+- Reference the [Cross-Role Handoff Checklist](./octoacme-handoff-checklist.md) during phase transitions

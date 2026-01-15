@@ -17,13 +17,22 @@ Quality assurance and release controls are baked into the flow: unit and integra
 The following process documents provide detailed guidance for each phase of the project lifecycle:
 
 - **[octoacme-project-management-overview.md](octoacme-project-management-overview.md)** - High-level introduction to OctoAcme's project management approach, principles, roles, and lifecycle
+- **[octoacme-roles-and-personas.md](octoacme-roles-and-personas.md)** - Detailed role definitions and responsibilities for all team members
 - **[octoacme-project-initiation.md](octoacme-project-initiation.md)** - How to start a project: problem statement, stakeholders, one-pager, and go/no-go decision
 - **[octoacme-project-planning.md](octoacme-project-planning.md)** - Planning phase: kickoff, backlog prioritization, estimates, Definition of Done, and release milestones
 - **[octoacme-execution-and-tracking.md](octoacme-execution-and-tracking.md)** - Execution workflows: project board, backlog item template, sprint planning, and PR workflow
 - **[octoacme-release-and-deployment.md](octoacme-release-and-deployment.md)** - Release process: checklists, verification, rollback plans, and release notes
 - **[octoacme-retrospective-and-continuous-improvement.md](octoacme-retrospective-and-continuous-improvement.md)** - Retrospectives, action items, and continuous improvement practices
 - **[octoacme-risks-and-communication.md](octoacme-risks-and-communication.md)** - Risk management, escalation paths, and communication cadence (standups, syncs, stakeholder updates)
-- **[octoacme-roles-and-personas.md](octoacme-roles-and-personas.md)** - Detailed role definitions and responsibilities for PM, PdM, developers, QA, and stakeholders
+
+## Templates and Tools
+
+The following templates support clear accountability and smooth collaboration across roles:
+
+- **[octoacme-raci-matrix-template.md](octoacme-raci-matrix-template.md)** - RACI (Responsible, Accountable, Consulted, Informed) matrix for defining role accountability across project activities
+- **[octoacme-handoff-checklist.md](octoacme-handoff-checklist.md)** - Cross-role handoff checklist to prevent gaps and ensure smooth transitions between project phases
+
+**Reference:** Templates added to address collaboration gaps identified in [sai-sharvan/skills-scale-institutional-knowledge-using-copilot-spaces#4](https://github.com/sai-sharvan/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)
 
 ## How to Propose Changes
 
