@@ -27,8 +27,6 @@ The following process documents provide detailed guidance for each phase of the 
 
 ## How to Propose Changes
 
-If you have suggestions to improve these process documents—whether it's clarifying a workflow, adding a new template, or closing a gap—please use our issue template to propose changes:
-
-➡️ [Add/Update Content to Process Docs](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)
+If you have suggestions to improve these process documents—whether it's clarifying a workflow, adding a new template, or closing a gap—please [open a new issue](https://github.com/sai-sharvan/skills-scale-institutional-knowledge-using-copilot-spaces/issues/new/choose) and select the "Add Content to Project Management Process Docs" template.
 
 Your feedback helps us continuously improve our project management practices and keep these docs relevant and useful for the entire team.
