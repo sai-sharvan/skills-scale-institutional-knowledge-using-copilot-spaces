@@ -16,6 +16,9 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- **Scrum Master:** Facilitates the retrospective, ensures psychological safety, and tracks action items
+
+**Reference:** Scrum Master facilitation role per [sai-sharvan/skills-scale-institutional-knowledge-using-copilot-spaces#4](https://github.com/sai-sharvan/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
@@ -31,3 +34,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## Related Templates
+- [Cross-Role Handoff Checklist](./octoacme-handoff-checklist.md) - Use retrospective findings to improve handoffs
+- [RACI Matrix Template](./octoacme-raci-matrix-template.md) - Review role accountability during retrospectives

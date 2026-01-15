@@ -16,6 +16,18 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+## Cross-Role Handoffs During Planning
+To prevent gaps and ensure clear accountability, the following handoffs should occur during planning:
+
+- **Business Analyst → Product Manager:** Validated requirements and business cases
+- **Business Analyst → Developers:** Detailed functional specifications
+- **UX Designer → Product Manager:** User research findings and design specifications
+- **UX Designer → Developers:** Design mockups, prototypes, and implementation guidelines
+- **Security Officer → Product/Engineering:** Security requirements and compliance constraints
+- **DevOps Engineer → PM:** Infrastructure needs, deployment constraints, and timeline estimates
+
+**Reference:** Handoff clarifications address process gaps identified in [sai-sharvan/skills-scale-institutional-knowledge-using-copilot-spaces#4](https://github.com/sai-sharvan/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)
+
 ## Backlog Item Template
 - Title:
 - Description:
@@ -41,3 +53,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] **UX Designer:** Design specifications and prototypes completed
+- [ ] **Business Analyst:** Functional specifications and requirements validated
+- [ ] **DevOps Engineer:** Infrastructure and deployment plan reviewed
+- [ ] **Security Officer:** Security requirements and compliance checklist approved
+- [ ] **Scrum Master:** Sprint ceremonies and team agreements established
+
+## Related Templates
+- [RACI Matrix Template](./octoacme-raci-matrix-template.md) - Clarify who is responsible for each planning activity
+- [Cross-Role Handoff Checklist](./octoacme-handoff-checklist.md) - Use planning-to-execution section
